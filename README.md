@@ -1,1 +1,1 @@
-http://www.baidu.com
+{"url":"http://www.baidu.com"}
